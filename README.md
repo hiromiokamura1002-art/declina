@@ -1,6 +1,6 @@
-# Declina
+# ラテン語ドリル
 
-ラテン語学習アプリ「Declina」のプライバシーポリシー・利用規約・サポートページです。
+ラテン語学習アプリ「ラテン語ドリル」のプライバシーポリシー・利用規約・サポートページです。
 
 - サポート：https://hiromiokamura1002-art.github.io/declina/support.html
 - プライバシーポリシー：https://hiromiokamura1002-art.github.io/declina/legal/privacy.html
